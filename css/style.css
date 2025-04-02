@@ -1,0 +1,23 @@
+h1{
+    color: brown;
+}
+#tierra{
+    text-align: center;
+}
+.p_tierra{
+    border-radius: 200px;
+    border: 3px solid green;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+p{
+    border: 3px solid darkblue;
+    margin: 0px 40px;/* 0px afecta arriba y abajo, 40px afecta izquierda y derecha*/
+    padding: 40px;
+    border-radius: 20px;
+    text-align: justify;
+    word-spacing: 20px;
+    font-size: 20px;
+    text-shadow: 3px 3px 3px gray;
+    box-shadow: 3px 3px 10px gray;
+}
